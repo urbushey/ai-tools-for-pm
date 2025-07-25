@@ -1,4 +1,4 @@
-# AI Tools for Product Management & Light Development Work
+# AI Tools for Product Management & Light Development Work 🦾
 
 Some notes about what works for me. The concepts are more interesting than any one specific tool.
 
