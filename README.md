@@ -1,4 +1,4 @@
-# AI Tools for Product Management & Development
+# AI Tools for Product Management & Light Development Work
 
 Some notes about what works for me. The concepts are more interesting than any one specific tool.
 
@@ -84,7 +84,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 
 ### Code Generation & Editing
 **My setup:** 
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (CLI) for basic coding tasks
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (CLI) for nost coding tasks
 - Cursor as my main editor
 - Same MCP servers from above for workflow integration
 
