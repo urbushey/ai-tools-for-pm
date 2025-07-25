@@ -48,6 +48,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 - [Narrative MCP](https://github.com/narrative-io/data-collaboration-mcp/tree/main) - custom server we're building for our platform
 
 **Examples:**
+- "Find my most recent convo in Slack with my boss and create a big ticket, make sure to attach the screenshot"
 - "Create a new epic in Shortcut for the SDK refactor project"
 - "Extrapolate the todos from these meeting notes and update the product spec in Notion with new requirements"
 - "Pull all the stories from this epic and create release notes"
