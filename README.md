@@ -33,7 +33,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 ### Meetings
 **My Setup:** Record everything, feed transcripts to AI
 - Google Meet + Gemini for internal stuff
-- [Avoma]([url](https://www.avoma.com/)) for customer meetings (love the clip feature)
+- [Avoma](https://www.avoma.com/) for customer meetings (love the clip feature)
   - Meeting note taking tools are all pretty similar, the feature Avoma has that I love is Clips: jump to specific points in a customer convo or demo, make a clip of the relevant content, and send the URL out to anyone for reference
 - Feed transcripts into AI discussions with Claude above
 
@@ -55,7 +55,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 **Why this works:** These 3 combined let me create specs, release notes, LinkedIn posts, etc. without constantly switching between tools and copy/pasting.
 
 ### Research & Strategy  
-**My setup:** [ChatGPT Deep Research]([url](https://openai.com/index/introducing-deep-research/)) for competitive and strategic research (Claude's [Research feature]([url](https://www.anthropic.com/news/research)) is also great, I find my results are slightly more nuanced and predictable with ChatGPT)
+**My setup:** [ChatGPT Deep Research](https://openai.com/index/introducing-deep-research/) for competitive and strategic research (Claude's [Research feature](https://www.anthropic.com/news/research) is also great, I find my results are slightly more nuanced and predictable with ChatGPT)
 
 **The approach:** Use AI's research capabilities for stuff that would take you hours of manual digging
 
@@ -65,7 +65,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 - Board prep: "Pretend you are a board member for my company. What questions are you going to ask about Q3..."
 
 ### Technical Concept Digestion
-**My setup**: [Google Notebook LM]([url](https://notebooklm.google/)) for pulling together hard technical concepts or market research notes that I'm finding difficulty concentrating on in written form. Ask for a podcast to explain the concept to me. This also works nicely with our own press releases, because it can help you figure out what's interesting and what's not - kind of like having a third party play back your thoughts for you to see how they are coming off to someone else.
+**My setup**: [Google Notebook LM](https://notebooklm.google/) for pulling together hard technical concepts or market research notes that I'm finding difficulty concentrating on in written form. Ask for a podcast to explain the concept to me. This also works nicely with our own press releases, because it can help you figure out what's interesting and what's not - kind of like having a third party play back your thoughts for you to see how they are coming off to someone else.
 **Examples**:
 
 - Upload dense technical documentation and get a conversational explanation
@@ -73,7 +73,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 - Upload your own press releases to see how they sound to an outsider
 
 ### Bug Reporting
-**My setup**: [Gemini Live]([url](https://gemini.google/overview/gemini-live/)) - screen share me clicking through our UI to generate a bug report and throw it into slack. Also works with ChatGPT (upload the video after the fact and give it a prompt). Wish Claude had this feature.
+**My setup**: [Gemini Live]((https://gemini.google/overview/gemini-live/) - screen share me clicking through our UI to generate a bug report and throw it into slack. Also works with ChatGPT (upload the video after the fact and give it a prompt). Wish Claude had this feature.
 **Examples**:
 
 - Screen record a bug, have AI write up the reproduction steps
