@@ -73,7 +73,7 @@ ChatGPT + [Custom GPTs](https://openai.com/index/introducing-gpts/) does basical
 - Upload your own press releases to see how they sound to an outsider
 
 ### Bug Reporting
-**My setup**: [Gemini Live]((https://gemini.google/overview/gemini-live/) - screen share me clicking through our UI to generate a bug report and throw it into slack. Also works with ChatGPT (upload the video after the fact and give it a prompt). Wish Claude had this feature.
+**My setup**: [Gemini Live](https://gemini.google/overview/gemini-live/) - screen share me clicking through our UI to generate a bug report and throw it into Shortcut/JIRA. Also works with ChatGPT (upload the video after the fact and give it a prompt). Wish Claude had this feature.
 **Examples**:
 
 - Screen record a bug, have AI write up the reproduction steps
